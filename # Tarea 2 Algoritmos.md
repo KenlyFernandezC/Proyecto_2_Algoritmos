@@ -1,4 +1,4 @@
-# Tarea_2 Algoritmos
+# Tarea 2 Algoritmos
 ### Nombre: Kenly Augusto Fernandez Barbuis
 ### Carné: 23-6317 
 ### Sección: C
